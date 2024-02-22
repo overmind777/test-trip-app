@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-trip-app/static/css/main.e7ca40a8.css",
+    "main.js": "/test-trip-app/static/js/main.0df56688.js",
+    "static/js/591.fa1dfde5.chunk.js": "/test-trip-app/static/js/591.fa1dfde5.chunk.js",
+    "static/js/728.0c306864.chunk.js": "/test-trip-app/static/js/728.0c306864.chunk.js",
+    "static/js/343.abf4b9d0.chunk.js": "/test-trip-app/static/js/343.abf4b9d0.chunk.js",
+    "static/js/926.160baa38.chunk.js": "/test-trip-app/static/js/926.160baa38.chunk.js",
+    "static/js/614.b88a9d06.chunk.js": "/test-trip-app/static/js/614.b88a9d06.chunk.js",
+    "static/media/phonebook.jpg": "/test-trip-app/static/media/phonebook.4d440114cc16f1396426.jpg",
+    "index.html": "/test-trip-app/index.html",
+    "main.e7ca40a8.css.map": "/test-trip-app/static/css/main.e7ca40a8.css.map",
+    "main.0df56688.js.map": "/test-trip-app/static/js/main.0df56688.js.map",
+    "591.fa1dfde5.chunk.js.map": "/test-trip-app/static/js/591.fa1dfde5.chunk.js.map",
+    "728.0c306864.chunk.js.map": "/test-trip-app/static/js/728.0c306864.chunk.js.map",
+    "343.abf4b9d0.chunk.js.map": "/test-trip-app/static/js/343.abf4b9d0.chunk.js.map",
+    "926.160baa38.chunk.js.map": "/test-trip-app/static/js/926.160baa38.chunk.js.map",
+    "614.b88a9d06.chunk.js.map": "/test-trip-app/static/js/614.b88a9d06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ca40a8.css",
+    "static/js/main.0df56688.js"
+  ]
+}
