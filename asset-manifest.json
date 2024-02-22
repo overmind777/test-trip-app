@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/test-trip-app/static/css/main.d74b37e7.css",
-    "main.js": "/test-trip-app/static/js/main.0fe3bf6f.js",
+    "main.js": "/test-trip-app/static/js/main.66a6bdb8.js",
+    "static/media/london.jpg": "/test-trip-app/static/media/london.d411a132dda1a269cf78.jpg",
+    "static/media/paris.jpg": "/test-trip-app/static/media/paris.661ff34abf9a67c0bbb5.jpg",
     "static/media/weather.svg": "/test-trip-app/static/media/weather.f05bf6c10ceceff9086c9a8bc95e0579.svg",
     "index.html": "/test-trip-app/index.html",
     "main.d74b37e7.css.map": "/test-trip-app/static/css/main.d74b37e7.css.map",
-    "main.0fe3bf6f.js.map": "/test-trip-app/static/js/main.0fe3bf6f.js.map"
+    "main.66a6bdb8.js.map": "/test-trip-app/static/js/main.66a6bdb8.js.map"
   },
   "entrypoints": [
     "static/css/main.d74b37e7.css",
-    "static/js/main.0fe3bf6f.js"
+    "static/js/main.66a6bdb8.js"
   ]
 }
