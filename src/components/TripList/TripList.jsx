@@ -4,11 +4,11 @@ import { useTrips } from '../../hooks/useTrips';
 import Button from '../Button/Button';
 import { List, TripWrapper, Wrapper } from './TripList.styled';
 
-import londonImage from '../../images/london.jpg';
-import parisImage from '../../images/paris.jpg';
-import berlinImage from '../../images/berlin.jpg';
-import romeImage from '../../images/rome.jpg';
-import pragaImage from '../../images/praga.jpg';
+import londonImage from '../../images/london.webp';
+import parisImage from '../../images/paris.webp';
+import berlinImage from '../../images/berlin.webp';
+import romeImage from '../../images/rome.webp';
+import pragaImage from '../../images/praga.webp';
 
 const cityImages = {
   london: londonImage,
