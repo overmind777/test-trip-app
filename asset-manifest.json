@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/test-trip-app/static/css/main.d74b37e7.css",
-    "main.js": "/test-trip-app/static/js/main.61a66d30.js",
-    "static/media/london.jpg": "/test-trip-app/static/media/london.d411a132dda1a269cf78.jpg",
-    "static/media/paris.jpg": "/test-trip-app/static/media/paris.661ff34abf9a67c0bbb5.jpg",
-    "static/media/rome.jpg": "/test-trip-app/static/media/rome.3ff49d653ce3d61117a9.jpg",
-    "static/media/praga.jpg": "/test-trip-app/static/media/praga.754cf2a1e00fe746e403.jpg",
-    "static/media/berlin.jpg": "/test-trip-app/static/media/berlin.fe8cc6697c70c6d8f06c.jpg",
+    "main.js": "/test-trip-app/static/js/main.767741c8.js",
+    "static/media/london.webp": "/test-trip-app/static/media/london.71bdde86540b118173c6.webp",
+    "static/media/rome.webp": "/test-trip-app/static/media/rome.58a20116d5046c7ed59d.webp",
+    "static/media/berlin.webp": "/test-trip-app/static/media/berlin.c8ff002e4e8f0e728688.webp",
+    "static/media/paris.webp": "/test-trip-app/static/media/paris.7a66b76bf0457c805ccc.webp",
+    "static/media/praga.webp": "/test-trip-app/static/media/praga.52cfbad4c6f8bc4d88ff.webp",
     "static/media/weather.svg": "/test-trip-app/static/media/weather.f05bf6c10ceceff9086c9a8bc95e0579.svg",
     "index.html": "/test-trip-app/index.html",
     "main.d74b37e7.css.map": "/test-trip-app/static/css/main.d74b37e7.css.map",
-    "main.61a66d30.js.map": "/test-trip-app/static/js/main.61a66d30.js.map"
+    "main.767741c8.js.map": "/test-trip-app/static/js/main.767741c8.js.map"
   },
   "entrypoints": [
     "static/css/main.d74b37e7.css",
-    "static/js/main.61a66d30.js"
+    "static/js/main.767741c8.js"
   ]
 }
