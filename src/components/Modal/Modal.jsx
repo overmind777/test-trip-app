@@ -2,7 +2,7 @@ import React from 'react';
 import { useTrips } from '../../hooks/useTrips';
 import Form from '../Form/Form';
 
-import weather from '../../images/weather.svg';
+import weather from '../../icons/weather.svg';
 
 import { ModalWrapper, SvgWrapper} from './Modal.styled';
 import { TitleWrapper } from '../Form/Form.styled';

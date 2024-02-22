@@ -9,7 +9,7 @@ const TripList = () => {
   const { trips, selectTrip, city } = useTrips();
 
   const getImageUrl = cityName => `./image/${cityName}.jpg`;
-  
+
   const filteredTrips = city
     ? trips.filter(t => t.city.toLowerCase().includes(city.toLowerCase()))
     : trips;
@@ -28,7 +28,7 @@ const TripList = () => {
                 city={trip.city}
                 start={trip.startDate}
                 end={trip.endDate}
-                imgUrl={getImageUrl(trip.city)}
+                imgUrl={getImageUrl(trip.city.toLowerCase())}
               />
             );
           })}

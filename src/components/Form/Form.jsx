@@ -33,7 +33,6 @@ const Form = () => {
         <select
           name="city"
           id="city-select"
-          // defaultValue=""
           required
           value={city}
           onChange={e => setCity(e.target.value)}

@@ -3,7 +3,7 @@ import { useTrips } from '../../hooks/useTrips';
 
 import { fetchWeatherDataDate } from '../../operations/api';
 
-import weatherSvg from '../../images/weather.svg';
+import weatherSvg from '../../icons/weather.svg';
 
 import styled from 'styled-components';
 
@@ -23,8 +23,9 @@ const WeeklyForecast = () => {
     if (selectedTrip) {
       const today = new Date();
       const endDate = new Date();
+
       endDate.setDate(today.getDate() + 7);
-      console.log(today.toISOString());
+
       fetchWeatherDataDate({
         location: selectedTrip.city,
         startDate: formatDateString(today),

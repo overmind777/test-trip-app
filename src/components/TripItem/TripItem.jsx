@@ -7,12 +7,11 @@ const TripItem = ({ onClick, city, start, end, imgUrl }) => {
   const rebuildDate = date => {
     return date.split('-').reverse().join('.');
   };
-
   return (
     <Item onClick={onClick} style={{ cursor: 'pointer' }}>
       <div>
+        <img src={imgUrl} alt="img" width="200" height="200" />
       </div>
-      <img src={imgUrl} alt="img" width="200" height="200" />
       <TextWrapper>
         <p>{city}</p>
         <p>
@@ -25,11 +24,10 @@ const TripItem = ({ onClick, city, start, end, imgUrl }) => {
 
 export default TripItem;
 
-
 TripItem.propTypes = {
-  onClick: PropTypes.func.isRequired, 
-  city: PropTypes.string.isRequired, 
-  start: PropTypes.string.isRequired, 
-  end: PropTypes.string.isRequired, 
-  imgUrl: PropTypes.string.isRequired, 
+  onClick: PropTypes.func.isRequired,
+  city: PropTypes.string.isRequired,
+  start: PropTypes.string.isRequired,
+  end: PropTypes.string.isRequired,
+  imgUrl: PropTypes.string.isRequired,
 };

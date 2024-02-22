@@ -7,8 +7,8 @@ export const TripsProvider = ({ children }) => {
   const [trips, setTrips] = useState([
     {
       city: 'London',
-      startDate: '2020-03-15',
-      endDate: '2020-03-20',
+      startDate: '2024-03-15',
+      endDate: '2024-03-20',
     },
   ]);
   const [selectedTrip, setSelectedTrip] = useState(null);

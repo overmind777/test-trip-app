@@ -1,11 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import PropTypes from 'prop-types';
 
 import styled from 'styled-components';
 import { useTrips } from '../../hooks/useTrips';
 
 const Timer = () => {
-// const Timer = ({ startDate }) => {
   const [timeLeft, setTimeLeft] = useState({
     days: 0,
     hours: 0,
@@ -88,7 +86,3 @@ const TimerNumber = styled.p`
 
 export default Timer;
 
-
-Timer.propTypes = {
-  startDate: PropTypes.string.isRequired,
-};

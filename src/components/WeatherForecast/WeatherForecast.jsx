@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useTrips } from '../../hooks/useTrips';
-import weatherSvg from '../../images/weather.svg';
+import weatherSvg from '../../icons/weather.svg';
 import Timer from '../Timer/Timer';
 
 import { fetchWeatherDataToday } from '../../operations/api';
