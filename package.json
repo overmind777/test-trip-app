@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "test-trip-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://overmind777.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://overmind777.github.io/test-trip-app/",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.1",
@@ -13,7 +13,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.3.4",
     "framer-motion": "^6.5.1",
-    "nanoid": "^4.0.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-redux": "^8.0.5",
